@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arianna</h1>
-<h3 align="center">Associate Developer</h3>
+<h3 align="center">A developer who loves troubleshooting, learning, and crafting</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nedlawa&label=Profile%20views&color=0e75b6&style=flat" alt="nedlawa" /> </p>
 
